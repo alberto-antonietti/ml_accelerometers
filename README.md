@@ -1,6 +1,4 @@
 # Machine Learning Architectures to Classify Activities of Daily Living and Fall Types From Wearable Accelerometer Data
-Machine learning architectures to classify activities of daily living and fall types from wearable accelerometer data. 
-
 
 Data and codes related to the paper:
 
