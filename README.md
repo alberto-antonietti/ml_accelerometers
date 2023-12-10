@@ -11,12 +11,9 @@ _A. Antonietti,_ "Machine Learning Architectures to Classify Activities of Daily
 
 The Jupyter Notebooks:
 
-`training_features.ipynb`
-
-`training_features_UniMiB.ipynb`
-
-`training_raw.ipynb`
-
+`training_features.ipynb`\
+`training_features_UniMiB.ipynb`\
+`training_raw.ipynb`\
 `training_raw_UniMiB.ipynb`
 
 contain the training and the results of classification with the tested ML algorithms.
